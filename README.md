@@ -68,6 +68,3 @@ with custom_object_scope({'AbsoluteDifference': AbsoluteDifference}):
 
 print(compare_fingerprints('a.tif', 'b.tif', model))
 ```
-
-## 📄 License
-No license specified. (Dataset FVC2004 has its own terms.)
